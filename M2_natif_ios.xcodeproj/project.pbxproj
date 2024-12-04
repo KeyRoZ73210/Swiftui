@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E9187EB42CB5757900FC745E /* answers.md in Resources */ = {isa = PBXBuildFile; fileRef = E9187EB22CB5756F00FC745E /* answers.md */; };
+		E9FF91472D00924400164D2F /* pres_swiftui_animation.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E9FF91462D00924400164D2F /* pres_swiftui_animation.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		E909E0262CB51B6300E66E3E /* M2_natif_iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = M2_natif_iosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E909E0302CB51B6300E66E3E /* M2_natif_iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = M2_natif_iosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9187EB22CB5756F00FC745E /* answers.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = answers.md; sourceTree = "<group>"; };
+		E9FF91462D00924400164D2F /* pres_swiftui_animation.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = pres_swiftui_animation.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,6 +87,7 @@
 				E909E0332CB51B6300E66E3E /* M2_natif_iosUITests */,
 				E909E0172CB51B5500E66E3E /* Products */,
 				E9187EB22CB5756F00FC745E /* answers.md */,
+				E9FF91462D00924400164D2F /* pres_swiftui_animation.pdf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -218,6 +221,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9FF91472D00924400164D2F /* pres_swiftui_animation.pdf in Resources */,
 				E9187EB42CB5757900FC745E /* answers.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
